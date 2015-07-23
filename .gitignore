@@ -3,7 +3,6 @@
 .node_binaries
 node_modules
 bower_components
-**/*.css
 trash
 build
 target
